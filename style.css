@@ -1,0 +1,110 @@
+  h1{
+    text-align: center;
+    margin: 0%;
+    background-color: white;
+     text-shadow: 20px; 
+     font-size: 50px;
+} 
+body{
+
+background-color: rgb(143, 92, 25);
+background-size: cover;
+background-repeat: no-repeat;
+
+
+}
+h3{
+text-align: center ;color:white;
+font-size: 40px;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+h2{
+    text-align: center;
+    font-size: 40px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+ .p1{
+text-align:left;
+font-size: 20px;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+} 
+.p2{
+font-size: 20px;
+text-align: left;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+.kingshit{
+    text-align: left;
+    position: relative;top: 40px;
+    background-color: white;
+    color: black;
+
+}
+.projects{
+    text-align: left;
+    font-size: 30px;
+    color: aliceblue;
+    position: relative;top:20px;
+}
+.contact{
+    font-size: 30px;
+    text-align: left;
+    color:white;
+    position: relative;top:30px;
+}
+.email{
+    font-size: 20px;
+    text-align:left;
+    color:aliceblue;
+}
+.number{
+    font-size: 20px;
+    color:white;
+    text-align: right;
+}
+.navbar li{
+    display: inline-block;
+     text-align: center; 
+    padding: 30px;
+    border: square;;
+}
+.navbar a{
+     text-align: center; 
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+     width: 100px; 
+    display:block;
+    padding-left: 20px;
+    text-transform: 30px;
+    margin: 30px; 
+    border: square 1px;
+    
+} 
+.navbar ul{
+    list-style: none;
+    text-align: center;
+    
+} 
+.navbar a:hover{
+    background-color: rgb(29, 52, 52);
+    color: white;
+
+}
+.image{
+    padding: 0px;
+    margin-left: -20px;
+    position: relative; bottom: 30px;
+   
+    
+}
+.hobbies{
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: -200px;
+    margin-left: -10px;
+
+}
+.hobbies a:hover{
+    color: white;
+}
